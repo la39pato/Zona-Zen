@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "Zona-Zen"
 include(":app")
- 
+include(":framework")
+include(":domain")
+include(":data")
+include(":usecases")
